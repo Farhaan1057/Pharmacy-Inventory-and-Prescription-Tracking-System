@@ -1,0 +1,4 @@
+pymongo>=4.0
+matplotlib>=3.5
+pillow>=9.0
+reportlab>=3.6
